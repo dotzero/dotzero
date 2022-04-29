@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Alexander
 
-- 👋 I live in Moscow.
-- 🧑‍🔬 I'm an engineer at [Avito](https://www.avito.ru/).
-- 💻 Most of the time I'm writing on Go.
-- ✏️ I write articles on my blog (in Russian): [dotzero.blog](https://dotzero.blog/).
-- ✉️ You can shoot me an email at [me@dotzero.ru](mailto:me@dotzero.ru).
+- 👋 I live in Moscow
+- 🧑‍🔬 I'm an engineer at [Avito](https://www.avito.ru/)
+- 💻 Most of the time I'm writing on Go
+- ✏️ I write articles on my blog (in Russian): [dotzero.blog](https://dotzero.blog/)
+- ✉️ You can shoot me an email at [me@dotzero.ru](mailto:me@dotzero.ru)
 
 ## 💻 Technology Skills
 
