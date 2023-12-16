@@ -13,7 +13,7 @@ var dotzero = struct {
 		company string
 		role    string
 	}{
-		"Alexander", "Avito", "TeamLead",
+		"Alexander", "AdTech", "TeamLead",
 	},
 	tech: []string{"golang", "python", "shell scripts"},
 	contacts: struct {
