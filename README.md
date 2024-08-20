@@ -21,7 +21,7 @@ var dotzero = struct {
 		gmail    string
 	}{
 		telegram: "@dot_zero",
-		gmail:    "me@dotzero.ru",
+		gmail:    "me@dotzero.dev",
 	},
 }
 ```
