@@ -2,26 +2,9 @@
 
 I lead the architectural design of high-performance microservices at a dynamic AdTech company. I'm also a passionate cybersecurity enthusiast who thrives on exploration and embraces the digital nomad lifestyle.
 
-```go
-var dotzero = struct {
-	about    any
-	tech     []string
-	contacts any
-}{
-	about: struct {
-		name    string
-		company string
-		role    string
-	}{
-		"Alexander", "AdTech", "TeamLead",
-	},
-	tech: []string{"golang", "python", "shell scripts"},
-	contacts: struct {
-		telegram string
-		gmail    string
-	}{
-		telegram: "@dot_zero",
-		gmail:    "me@dotzero.dev",
-	},
-}
-```
+[![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
+[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnubash)](https://tiswww.case.edu/php/chet/bash/bashtop.html)
+[![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)](https://www.docker.org/)
+[![Kali](https://img.shields.io/badge/-Kali-141414?style=flat&logo=kalilinux)](https://www.kali.org/)
+[![MacOS](https://img.shields.io/badge/-MacOS-141414?style=flat&logo=apple)](https://www.apple.com/)
