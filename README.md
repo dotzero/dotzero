@@ -1,6 +1,8 @@
 :suspect: Welcome to my GitHub profile! :godmode:
 
-I lead the architectural design of high-performance microservices at a dynamic AdTech company. I'm also a passionate cybersecurity enthusiast who thrives on exploration and embraces the digital nomad lifestyle.
+- Distributed Systems • High Load
+- Cybersecurity enthusiast
+- Remote • Digital Nomad
 
 [![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)](https://go.dev/)
 [![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/)
